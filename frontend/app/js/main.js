@@ -42,7 +42,7 @@ app.controller('PageCtrl', function (/* $scope, $location, $http */) {
 
 /**
 * Object creator functions
-*/
+
 function  chemical(){}
 
 function  assay(){}
@@ -54,3 +54,4 @@ function  toxicity(){}
 
 function  citation(){}
 function citation_id(){}
+*/
